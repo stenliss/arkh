@@ -1,0 +1,37 @@
+{
+  "HosterName": "KONSTANTIN",
+  "ServerName": "",
+  "ClusterName": "HUNTERS",
+  "IconUrl": "https://i.postimg.cc/Nfn7pjJx/Hunters.jpg",
+  "Discord": "",
+  "ServerDescription":
+  {
+    "MaxDinoLvl": 225,
+    "Taming": 6,
+    "Experience": 2,
+    "Harvesting": 4,
+    "Breeding": 6,
+    "Stacks": 3,
+    "Other":
+    [
+        "Imprinting x8",
+		"Crafting Skill bonus x8",
+		"Transfer possible after ascension"
+    ]
+  },
+  "ClusterDescription":
+  {
+    "MaxDinoLvl": 600,
+    "Taming": 6,
+    "Experience": 2,
+    "Harvesting": 4,
+    "Breeding": 6,
+    "Stacks": 3,
+    "Other":
+    [
+        "Imprinting x8",
+        "Crafting Skill bonus x8",
+		"Story marathon in all maps excluded Center"
+    ]
+  }
+}
